@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="status_bar_text">Current Player: X</string>
 </resources>
