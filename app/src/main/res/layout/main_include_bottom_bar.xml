@@ -11,8 +11,9 @@
 
         <include
             layout="@layout/main_include_status_bar"
+            android:layout_gravity="center"
             android:layout_width="0dp"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_weight=".6"
             />
 
@@ -33,10 +34,5 @@
             />
 
     </LinearLayout>
-
-
-
-
-
 
 </android.support.design.widget.AppBarLayout>
